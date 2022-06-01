@@ -23,10 +23,10 @@ PHP
 Solidity
 
 # Demostration
-![alt text](https://github.com/gurpreetsodhi/Columbia_Fintech_Project3/blob/master/Picture4.png?raw=true)
-![alt text](https://github.com/gurpreetsodhi/Columbia_Fintech_Project3/blob/master/Picture2.png?raw=true)
-![alt text](https://github.com/gurpreetsodhi/Columbia_Fintech_Project3/blob/master/Picture3.png?raw=true)
-![alt text](https://github.com/gurpreetsodhi/Columbia_Fintech_Project3/blob/master/Picture4.png?raw=true)
+![alt text](https://github.com/2coconi/CO2TOKEN_EXCHANGE/blob/master/Picture1.png?raw=true)
+![alt text](https://github.com/2coconi/CO2TOKEN_EXCHANGE/blob/master/Picture2.png?raw=true)
+![alt text](https://github.com/2coconi/CO2TOKEN_EXCHANGE/blob/master/Picture3.png?raw=true)
+![alt text](https://github.com/2coconi/CO2TOKEN_EXCHANGE/blob/master/Picture4.png?raw=true)
 # Contributors
 Brought to you by Team #6:
 Gurpreet Singh Sodhi
